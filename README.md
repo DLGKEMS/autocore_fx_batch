@@ -9,4 +9,4 @@
 4. 파일 처리 영역과 환율 관리 영역을 processing과 rate 패키지로 분리하여 이후 확장이나 변경에 유연하게 대응하도록 설계
 
 ## 기술스택
-Java, Spring Boot, JSON / Jackson
+Java, Spring Boot, JSON / Jackson, File I/O
