@@ -1,5 +1,7 @@
 # autocore_fx_batch
 한국은행 ECOS Open API와 환율 JSON 캐시를 활용해 CSV 외화 데이터를 KRW로 변환하는 Spring Boot 배치 프로그램
+
+## Batch 처리 흐름 및 구조
 ![FX_Batch_Processing_Flow](./FX_Batch_Processing_Flow.png)
 
 ## 설계포인트
